@@ -1,6 +1,6 @@
 # Digital Forensic Investigation Diploma
 
-## Module 6 :  Data Acquisition and Anti-Forensics (Concepts Only)
+## Module 1, Topic 6 :  Data Acquisition and Anti-Forensics (Concepts Only)
 
 ### Practice Exercise: Logical Imaging Using FTK Imager (Free Edition)  
 **Objective**: Create and verify a logical image of selected folders from a live system while preserving file system metadata, then evaluate what is gained and lost compared with physical imaging.  
