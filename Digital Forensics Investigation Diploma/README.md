@@ -33,7 +33,7 @@ Document the live capture conditions: system time, logged-in user, and any relev
 👉What steps reduce the risks of live acquisition (scope control, minimal interaction, and thorough notes)?   
 
 ## Module 5: Hash Based Analysis
-### Topic Creating Hashes with DigitalVolcano Hash ToolInstall and open the DigitalVolcano Hash Tool.
+### Creating Hashes with DigitalVolcano Hash ToolInstall and open the DigitalVolcano Hash Tool.
 Create a new folder called Hash_Practice on your desktop.  
 Add three different files into Hash_Practice (for example, a .docx, a .jpg, and a .zip).  
 In the Hash Tool, add/import the three files (drag and drop into the window if supported).  
