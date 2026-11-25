@@ -11,5 +11,5 @@
 
 
 
-Fancy Terminology: Tampered, Integrity
+Fancy Terminology: Tampered, Integrity  
 sos(symptom of student)=>selfcommitment,obsession,discipline,consistency,regularity
