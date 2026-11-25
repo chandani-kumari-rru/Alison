@@ -10,4 +10,6 @@
 | **Chain of Custody**           | [Click](https://www.nist.gov/document/sample-chain-custody-formdocx) | docx                   |
 
 
+
 Fancy Terminology: Tampered, Integrity
+sos(symptom of student)=>selfcommitment,obsession,discipline,consistency,regularity
